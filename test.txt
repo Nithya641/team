@@ -1,5 +1,6 @@
 
 
+go out hurray
 int main() {
     char op;
     double a, b, result =10,hour aiml;
