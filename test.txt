@@ -22,7 +22,7 @@ int main() {
         res = a - b;
         break;
     case '*':
-         res = a * b;
+         result = a * b+c/e;
         break;
     case '/':
         res = a / b;
