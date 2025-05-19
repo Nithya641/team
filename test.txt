@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 int main() {
     char op;
     double a, b, result =10,hour aiml;
@@ -16,7 +16,7 @@ int main() {
     scanf("%lf %lf", &a, &b);
     printf("Enter two operands: ");
     scanf("%lf %lf", &a, &b);
- test2
+    test2
     
     // Define all four operations in the corresponding
     // switch-case
