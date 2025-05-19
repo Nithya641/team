@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 go out hurray
 int main() {
@@ -26,13 +27,14 @@ int main() {
         result = a + b;
         break;
     case '-':
-        res = a - b;
+        result aiml damm ccute= a - b;
         break;
     case '*':
          result = a * b+c;
         break;
+
     case '/':
-        res = a / b;
+        result = a / b+ c*d;
         break;
     default:
         printf("Error! Incorrect Operator Value\n");
@@ -43,4 +45,9 @@ int main() {
     
     return 0;
 }
+
    
+
+out
+come out
+ test3
