@@ -1,16 +1,4 @@
-#include <float.h>
 
-int main() {
-    char op;
-    double a, b, res;
-
-    // Read the operator
-    printf("Enter an operator (+, -, *, /): ");
-    scanf("%c", &op);
-
-    // Read the two numbers
-    printf("Enter two operands: ");
-    scanf("%lf %lf", &a, &b);
     
     // Define all four operations in the corresponding
     // switch-case
@@ -22,7 +10,7 @@ int main() {
         res = a - b;
         break;
     case '*':
-         res = a * b;
+         result = a * b+c;
         break;
     case '/':
         res = a / b;
