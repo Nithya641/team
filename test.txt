@@ -2,7 +2,7 @@
 
 int main() {
     char op;
-    double a, b, result=0;
+    double a, b, result=0,cse btech;
 
     // Read the operator
     printf("Enter an operator (+, -, *, /): ");
