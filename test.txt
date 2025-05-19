@@ -4,7 +4,7 @@
     // switch-case
     switch (op) {
     case '+':
-        res = a + b;
+        result = a + b;
         break;
     case '-':
         res = a - b;
