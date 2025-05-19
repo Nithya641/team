@@ -2,7 +2,7 @@
 
 int main() {
     char op;
-    double a, b, res;
+    double a, b, result =10,hour aiml;
 
     // Read the operator
     printf("Enter an operator (+, -, *, /): ");
